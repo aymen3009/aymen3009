@@ -7,7 +7,7 @@ I'm Aymen Abdellaoui a Full Stack Web Developer and a system administrator . I s
 
 [![Linkedin Badge](https://img.shields.io/badge/-Aymen-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymen-abdellaoui-8054b719a/) [![Mail Badge](https://img.shields.io/badge/-Aymen%20Abdellaoui-4267B2?style=flat&labelColor=4267B2&logo=facebook&logoColor=white)](https://www.facebook.com/aymenabdllaoui) [![Mail Badge](https://img.shields.io/badge/-@aymen__abdellaoui-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/aymen__abdellaoui) [![Mail Badge](https://img.shields.io/badge/-Aymen%20Abdellaoui-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:timou3009@gmail.com)
 
- ## **My Teck Stack : **
+ ## My Teck Stack : 
 ### Front-end : 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 	![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 
