@@ -1,6 +1,6 @@
 ## Hi I'm Aymen <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Aymen Abdellaoui a Full Stack Web Developer and a system administrator . I spend my time watching youtube and anime, or playing chess.
+I'm Aymen Abdellaoui a Full Stack Web Developer and a system administrator. I spend my time watching youtube and anime or playing chess.
 
 :mailbox: Let's talk!
 
